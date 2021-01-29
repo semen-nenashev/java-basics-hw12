@@ -47,7 +47,7 @@ public class StreamTaskTest {
                         new int[]{}
                 },
                 {
-                        new int[]{121, 256, 131,24, 25, -15, -17},
+                        new int[]{121, 256, 131, 24, 25, -15, -17},
                         new int[]{-17, -15, 25, 121, 131}
                 },
                 {
